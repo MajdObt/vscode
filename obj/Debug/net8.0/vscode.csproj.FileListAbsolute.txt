@@ -1,0 +1,14 @@
+C:\Users\obtmj\Desktop\vscode\bin\Debug\net8.0\vscode.exe
+C:\Users\obtmj\Desktop\vscode\bin\Debug\net8.0\vscode.deps.json
+C:\Users\obtmj\Desktop\vscode\bin\Debug\net8.0\vscode.runtimeconfig.json
+C:\Users\obtmj\Desktop\vscode\bin\Debug\net8.0\vscode.dll
+C:\Users\obtmj\Desktop\vscode\bin\Debug\net8.0\vscode.pdb
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.AssemblyInfoInputs.cache
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.AssemblyInfo.cs
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.csproj.CoreCompileInputs.cache
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.dll
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\refint\vscode.dll
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.pdb
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\vscode.genruntimeconfig.cache
+C:\Users\obtmj\Desktop\vscode\obj\Debug\net8.0\ref\vscode.dll
